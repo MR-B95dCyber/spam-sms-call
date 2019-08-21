@@ -1,1 +1,1 @@
-# spam SMS-CALL
+# spam sms
