@@ -27,7 +27,7 @@ mulai (){
     if [ $lagi = "y" ]; then
             spam
     else
-            echo "Terimakasih sudah menggunakan Troll project"
+            echo "Terimakasih sudah pake tools Aink anjing!"
     fi
 }
 #spam
